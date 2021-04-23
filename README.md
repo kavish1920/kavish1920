@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavish1920
-- 👀 I’m interested in ...  Clinical Pharmacy
-- 🌱 I’m currently learning ... Doctor of pharmacy
-- 💞️ I’m looking to collaborate on ...pharmacy company
+- 👀 I’m interested in ...  Coding
+- 🌱 I’m currently learning ... ******
+-
 - 📫 How to reach me ... kavishkumar881@gmail.com
 
 <!---
